@@ -1,6 +1,6 @@
 # Instagram Follow Checker
 
-A Python script to identify Instagram users you follow who don’t follow you back. It processes your Instagram follower and following data exported as JSON files and highlights non-mutual connections.
+A Python script to identify Instagram users you follow who don’t follow you back. It processes your Instagram follower and following data exported as JSON files and highlights non-mutual connections :)
 
 ---
 
